@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Jest**
 
-- 👨‍💻 All of my projects are available at [https://oczkow.ski](https://oczkow.ski)
+- 👨‍💻 My personal website [https://oczkow.ski](https://oczkow.ski) (Needs updating)
 
 - 💬 Ask me about **React, JavaScript**
 
