@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oczkowski&label=Profile%20views&color=0e75b6&style=flat" alt="oczkowski" /> </p>
 
-- 🔭 I currently work at [Maglabs Limited](https://www.maglabs.net/)
+- 🔭 I currently work at [E.ON Next](https://www.eonnext.com/)
 
 - 🌱 I’m currently learning **GraphQL and Jest**
 
