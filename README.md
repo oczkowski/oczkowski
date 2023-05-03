@@ -5,15 +5,15 @@
 
 - 🔭 I currently work at [E.ON Next](https://www.eonnext.com/)
 
-- 🌱 I’m currently learning **GraphQL and Jest**
+- 🌱 I’m currently learning **Team management**
 
-- 👨‍💻 My personal website [https://oczkow.ski](https://oczkow.ski) (Needs updating)
+- 👨‍💻 My personal website https://oczkow.ski (Undergoing work)
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **contact@oczk.io**
 
-- 📄 Know about my experiences [https://github.com/oczkowski/oczkowski/blob/main/cv-kamil.pdf](https://github.com/oczkowski/oczkowski/blob/main/cv-kamil.pdf)
+- 📄 Know about my experiences [View my CV](https://github.com/oczkowski/oczkowski/blob/main/cv-kamil.pdf)
 
 - ⚡ Fun fact **I started programming because of online games!**
 
